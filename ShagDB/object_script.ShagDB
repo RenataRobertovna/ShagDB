@@ -1,0 +1,17 @@
+faculty.o
+group.o
+listgroup.o
+main.o
+database.o
+managers.o
+menu.o
+students.o
+teachers.o
+moc_database.o
+moc_faculty.o
+moc_group.o
+moc_listgroup.o
+moc_managers.o
+moc_menu.o
+moc_students.o
+moc_teachers.o
